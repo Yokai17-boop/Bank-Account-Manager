@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class BankAccount { 
    private double balance;
@@ -69,3 +70,4 @@ class Main {
       scanner.close();
    }
 }
+
